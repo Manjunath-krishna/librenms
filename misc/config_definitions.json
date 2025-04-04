@@ -2559,6 +2559,38 @@
             },
             "type": "graph"
         },
+        "graph_types.device.bison_dnat_maps": {
+            "default": {
+                "section": "network",
+                "order": 0,
+                "descr": "DNAT Maps"
+            },
+            "type": "graph"
+        },
+        "graph_types.device.bison_dnat_stats": {
+            "default": {
+                "section": "network",
+                "order": 0,
+                "descr": "DNAT Stats"
+            },
+            "type": "graph"
+        },
+        "graph_types.device.bison_ipoe_sessions": {
+            "default": {
+                "section": "network",
+                "order": 0,
+                "descr": "IPOE Sessions"
+            },
+            "type": "graph"
+        },
+        "graph_types.device.bison_pppoe_sessions": {
+            "default": {
+                "section": "network",
+                "order": 0,
+                "descr": "PPPOE Sessions"
+            },
+            "type": "graph"
+        },
         "graph_types.device.bits": {
             "default": {
                 "section": "netstats",
